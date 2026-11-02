@@ -1,0 +1,8 @@
+version=0.11 beta
+code=14
+minApk=14
+bundle=bundles/game-14.zip
+bundleSha=1bbad5ca3320dec6b7a84a82fffeaad04a5142965bb5f14f0d3523c6ff3c308d
+apk=apk/Krilessa-v0.11-beta.apk
+apkSha=921c3ef5398bf4e4c296c9118b9bf367242642cfe7a03f8f4309110100335d7a
+sig=MEQCIB+y+GzOuBLFF4KXoCPfRcOHaf0/RVw32A8CVu+3t6gyAiAQdkovXegk4rH6IF3Nc6QVC49AtIQ/bM/Laq7NLcy4sw==
