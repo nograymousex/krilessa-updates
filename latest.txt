@@ -1,9 +1,9 @@
-version=0.10.7 beta
-title=Объёмная графика
-code=20
+version=0.10.8 beta
+title=Чистый старт и кровавый хардкор
+code=21
 minApk=15
-bundle=bundles/game-20.zip
-bundleSha=6199755ed97e9918c4e079032ed4c94eddfab857b23e4ace145337ac48c2d02d
-apk=apk/Krilessa-v0.10.7-beta.apk
-apkSha=2fd949f944e2583702c8e6cb771569378a30985d3bffc36cd27233f5b641e366
-sig=MEYCIQDF4ext/gcAWc0qGV4jXv451dAwqK1VWzsaB2RAyH9MkgIhAL8hu2oE1rZEX69GpBQAwpsjPHUhL1DaMJdYwKkfo/1J
+bundle=bundles/game-21.zip
+bundleSha=e4b2891f1233aad489ce40aa00be866b5454929516e1f1ebe981a9a9f1403ddc
+apk=apk/Krilessa-v0.10.8-beta.apk
+apkSha=ac4648cb4629fd2dfb687d02b8ba694a4f06000e758ff324093839541a807920
+sig=MEQCIHCxuy1GFGp2UedrJjnJ/sFbMbcbP4OHwhKNmYbr5HplAiByxu1hhUiCPSIULNfSlAe/3dHZqkCrvVCW1LPmkNK47Q==
