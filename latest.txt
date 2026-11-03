@@ -1,9 +1,9 @@
-version=0.10.8 beta
-title=Чистый старт и кровавый хардкор
-code=21
-minApk=15
-bundle=bundles/game-21.zip
-bundleSha=e4b2891f1233aad489ce40aa00be866b5454929516e1f1ebe981a9a9f1403ddc
-apk=apk/Krilessa-v0.10.8-beta.apk
-apkSha=ac4648cb4629fd2dfb687d02b8ba694a4f06000e758ff324093839541a807920
-sig=MEQCIHCxuy1GFGp2UedrJjnJ/sFbMbcbP4OHwhKNmYbr5HplAiByxu1hhUiCPSIULNfSlAe/3dHZqkCrvVCW1LPmkNK47Q==
+version=0.11 beta
+title=Последний штрих перед Главой 7!
+code=22
+minApk=22
+bundle=bundles/game-22.zip
+bundleSha=6c42f35be36e0c5776000d2a40f5de7999a7cf169cff18e78734c0d7edf5550a
+apk=apk/Krilessa-v0.11-beta.apk
+apkSha=e6477124df7685cc2dee2e41fd7d1e09d5fcefe843cac509115707687cce069b
+sig=MEUCIQCOjLicGEp2BhbAxlRE4rl06xExLiT9g0675e4Q1nvm4wIgNR0uWADAQyGXWohA0U952XQync/MKc3KxKyJoEbQB44=
