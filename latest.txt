@@ -1,9 +1,9 @@
-version=0.10.4 beta
-title=Сквозь деревья
-code=17
+version=0.10.5 beta
+title=Новый стартовый экран
+code=18
 minApk=15
-bundle=bundles/game-17.zip
-bundleSha=3cedce88f51f71724e64d8b861f28219c4a042ee4246a5ce5e389e2cddb853dd
-apk=apk/Krilessa-v0.10.4-beta.apk
-apkSha=2297b3534704f9ebd69ecaff6ea7eb5648119be05e4e632d35f33e8b1d33d8f0
-sig=MEUCIBrfUh+W0Q2fiJALfci0BEgGYmRLjlY93KL6Agd8J4LFAiEA0E99iy3hHZasjtZnpOT6DXPJIU8DJnFMst2oeRUja6I=
+bundle=bundles/game-18.zip
+bundleSha=8e85a4170ebc7a397b57b72ea2983de4a8b8dd2792813a9197cea41d72f625b5
+apk=apk/Krilessa-v0.10.5-beta.apk
+apkSha=f20652eb11a24bbf536d0f47099e5d86687f302c859675da00024b2551ae8066
+sig=MEYCIQCcTBrpN5A/bNaYkNQ9RrfBO/x9RUrLCoRNK0fDYcWNmQIhAJ5WumoWCyR4Wiq6L3ez8bppu3rmRjQ0HKVeaPlDjRkb
