@@ -1,9 +1,9 @@
-version=0.10.5 beta
-title=Новый стартовый экран
-code=18
+version=0.10.6 beta
+title=???
+code=19
 minApk=15
-bundle=bundles/game-18.zip
-bundleSha=8e85a4170ebc7a397b57b72ea2983de4a8b8dd2792813a9197cea41d72f625b5
-apk=apk/Krilessa-v0.10.5-beta.apk
-apkSha=f20652eb11a24bbf536d0f47099e5d86687f302c859675da00024b2551ae8066
-sig=MEYCIQCcTBrpN5A/bNaYkNQ9RrfBO/x9RUrLCoRNK0fDYcWNmQIhAJ5WumoWCyR4Wiq6L3ez8bppu3rmRjQ0HKVeaPlDjRkb
+bundle=bundles/game-19.zip
+bundleSha=a4aab76512470a64d04b559c3771ad8ba704cb2ec4e75d3f491faf1b34ca327e
+apk=apk/Krilessa-v0.10.6-beta.apk
+apkSha=63e216d09bc7aa931656a9057f8efcb1791e980983cb6affbafa6a844a19b135
+sig=MEUCIQDxbw9MBiUC2sgUJBI8IT9PhhhSNp3j/QNPAEIB8H42hQIgWtN1rAjoQsc4n8J1lwle8+Epm2GsgYkDUp7QGXbgqG0=
