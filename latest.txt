@@ -1,9 +1,9 @@
-version=0.10.2 beta
-title=Автообновление и новый главный экран
-code=15
+version=0.10.3 beta
+title=Живая карта
+code=16
 minApk=15
-bundle=bundles/game-15.zip
-bundleSha=ef22f7ef647fc5a57b751c87273db6908f1e178949a17b11a17bccef666e37f4
-apk=apk/Krilessa-v0.10.2-beta.apk
-apkSha=4ec88439bb9d19c0ff7ff6a0c565874b0ca0c464f0acb94109d1a30282a7c9aa
-sig=MEUCIB8kKXKSXb5ZBqoeQveeOoDLjmc3jKNUTsoEiCWp+y7wAiEAiuDxlvMRhpk1QzOzkHmapfVMvFVpC6hZK4GBJSeQaks=
+bundle=bundles/game-16.zip
+bundleSha=0766ccd7dafd409d0d83786e06bc123d14caee435c6f4c1599aeb15c69be2714
+apk=apk/Krilessa-v0.10.3-beta.apk
+apkSha=10fbf055dfb7d2b9522c93b3f8425029a4ff7ca172c799c307621a7542cc8398
+sig=MEUCIEMvTixkYObM+Uw2GhZA79LT33rFmxB7e0gKOBVKxifPAiEA2oZp0874gM5ZBAFq6vcLFm/nwAvmQ3l+oE+Ukjv91XE=
