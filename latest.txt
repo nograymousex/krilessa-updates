@@ -1,9 +1,9 @@
-version=0.11 beta
-title=Последний штрих перед Главой 7!
-code=22
+version=0.11.1 beta
+title=Края карт и сундуки
+code=23
 minApk=22
-bundle=bundles/game-22.zip
-bundleSha=6c42f35be36e0c5776000d2a40f5de7999a7cf169cff18e78734c0d7edf5550a
-apk=apk/Krilessa-v0.11-beta.apk
-apkSha=e6477124df7685cc2dee2e41fd7d1e09d5fcefe843cac509115707687cce069b
-sig=MEUCIQCOjLicGEp2BhbAxlRE4rl06xExLiT9g0675e4Q1nvm4wIgNR0uWADAQyGXWohA0U952XQync/MKc3KxKyJoEbQB44=
+bundle=bundles/game-23.zip
+bundleSha=6e47df61909ab025f4bb25c0de54461b4c26429f6fc2fc051aed2834a37efb2c
+apk=apk/Krilessa-v0.11.1-beta.apk
+apkSha=8e0b61f2ff617708a80e801872e131c75fa076b3fabf28778f85a93b20a96990
+sig=MEUCIBc3rHHlUWGNy05spNPHFeNBTNAe2TbVTF/QKS1A5mFwAiEA7M74Ai7nXwMnF+gU2CDFKNGyFPaaPoccRjU7TDI/X0s=
