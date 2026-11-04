@@ -1,9 +1,9 @@
-version=0.22.3 stable
-title=Испытания – вместе
-code=34
+version=0.22.4 stable
+title=Большая проверка
+code=35
 minApk=30
-bundle=bundles/game-34.zip
-bundleSha=441211eda3e52bd0598134bcb4c3771aca07f03ba73b1c3d461eb940e4bdd786
-apk=apk/Krilessa-v0.22.3-stable.apk
-apkSha=b802814fc3b6fc5c1ec5d2dec45a40373ba0f67f4638784d82047637df237ad5
-sig=MEQCIE/0BJcbEUyiUVEoiPw6+I1p6WCxr1gHIUAeShnzd5zcAiBFi4nKnDWKUgx65svSWKvOSLrnqD1UVRMHB4463FhdPg==
+bundle=bundles/game-35.zip
+bundleSha=ee8ffcc1c2498768feffc2daf51739e2c366205c95561e27d0f72a30bd4f4cea
+apk=apk/Krilessa-v0.22.4-stable.apk
+apkSha=99a66d88bf984723433dc16dd688e08dad686d1652833e43ba6a24547a709b0f
+sig=MEUCIDm0BcjskzVERF3MCK1CrR53KgNbAYYBc2tuhKyyiVbdAiEA9oUbSmJBrIFx6nb/w1YewQWBUcGJkPqKgbQnM3EFpLU=
