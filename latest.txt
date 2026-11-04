@@ -1,9 +1,9 @@
-version=0.11.3 beta
-title=Неоновая мини-карта
-code=25
+version=0.11.4 beta
+title=Джойстик и мини-карта под себя
+code=26
 minApk=22
-bundle=bundles/game-25.zip
-bundleSha=2ebaa8de722f6fbe37fffd3ac3c40b38ba3524a10aad86d0f66c264cbc46ec31
-apk=apk/Krilessa-v0.11.3-beta.apk
-apkSha=012c93354076ec46ea571785350cafb12377539e2dd5d623543aafbee065a398
-sig=MEUCIQD4DC7lt34h0KC7OUxINg4c8GV0b9+gN6ULCDTJXkxwXAIgbKXVIXQXjuInqUgRXZpe2s5V2RJtra1WafWQnOBO03Y=
+bundle=bundles/game-26.zip
+bundleSha=b0f9b83fdf23a3aef5b9b1bff0d9c127c7ea3b3da002b8320d456d9b27d6c65c
+apk=apk/Krilessa-v0.11.4-beta.apk
+apkSha=aea28de9e844f39ed49d2dffb4651b8b6bce32b1b2e733e40081e59292c43346
+sig=MEQCICn5h65DbZmZjHHufsswWgrPRhLWV6B9eWy6bG1jWJIkAiA07SmQw+wSvmrSqLbnmLQtVTvHYfEubd10OSO7LLrogA==
