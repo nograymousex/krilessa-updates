@@ -1,9 +1,9 @@
-version=0.20.1 stable
-title=Красивый финал
-code=29
-minApk=28
-bundle=bundles/game-29.zip
-bundleSha=5d7355aee4989e5a8eba57d95e2c100c43bb2d07eb3289e8c0d6680c3c0a5b2c
-apk=apk/Krilessa-v0.20.1-stable.apk
-apkSha=4b31d70989a789c108d1e18517b4e6504972846687e2297063ea973388198abf
-sig=MEYCIQDzvIy/HxXJKY5Iofo+mIJVdLB+ckO8OgzF6FnKu/+sOQIhAMFeeAq2GLSVeR+a7wMh+8waV4Bfi4wFp4lK9EgSTTJa
+version=0.21 stable
+title=Играем вместе!
+code=30
+minApk=30
+bundle=bundles/game-30.zip
+bundleSha=befeb99ac87b6764d2f476d1d56243cedae205e39b02947ac8c35d18be1de667
+apk=apk/Krilessa-v0.21-stable.apk
+apkSha=e63b23d4f0cedeae0b293730e6ae9af80b8024d705f51133fb82c9090c75127a
+sig=MEQCIHFD+Uzx+PYu3SqSuRtjiPqYBOnr6pysWDRVPTzp8ClJAiBzRedcFA58QDSlg4SZV7dQhTFYxKLcoOH6TGf9MWLhiQ==
