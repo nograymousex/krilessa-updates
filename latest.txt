@@ -1,9 +1,9 @@
-version=0.11.1 beta
-title=Края карт и сундуки
-code=23
+version=0.11.2 beta
+title=Новые события, музыка и честные волны
+code=24
 minApk=22
-bundle=bundles/game-23.zip
-bundleSha=6e47df61909ab025f4bb25c0de54461b4c26429f6fc2fc051aed2834a37efb2c
-apk=apk/Krilessa-v0.11.1-beta.apk
-apkSha=8e0b61f2ff617708a80e801872e131c75fa076b3fabf28778f85a93b20a96990
-sig=MEUCIBc3rHHlUWGNy05spNPHFeNBTNAe2TbVTF/QKS1A5mFwAiEA7M74Ai7nXwMnF+gU2CDFKNGyFPaaPoccRjU7TDI/X0s=
+bundle=bundles/game-24.zip
+bundleSha=7d94bbac00a98e7d61d65130c9cb55311f8c747ef05f83807df575e4b1294aa0
+apk=apk/Krilessa-v0.11.2-beta.apk
+apkSha=fef77d12de0fde3a85bfa6e12aab425c1b28f7c5b9986a0eb39d306e12d022cf
+sig=MEUCIDNzkBNdsgXskrOfRYeJ6LZ7e35m1nzDx5HUBaDmTexrAiEAjC2xL9Jtn5i/4hMYTIJE++RnCPQRH3aeURzfLXVcIck=
