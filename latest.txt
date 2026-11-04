@@ -1,9 +1,9 @@
-version=0.22.1 stable
-title=Аккуратнее список игр
-code=32
+version=0.22.2 stable
+title=У каждой – своё здоровье
+code=33
 minApk=30
-bundle=bundles/game-32.zip
-bundleSha=9626f2c8239019a4a089a0065b782e5acd03a5172891c819303351db6ed4ea72
-apk=apk/Krilessa-v0.22.1-stable.apk
-apkSha=93d99ac82e180f7a18c9f120a5975173103be94051bf6d61ba6324229d8e8531
-sig=MEUCIAf7KN2YFRA+LqA/R4Y9jypGmOthhdPPuBnqtbuSO8ccAiEArGPrO2NOa7Np5YgQwEBiM6ZPS6yyBNRpTAeQ+Oi/oJE=
+bundle=bundles/game-33.zip
+bundleSha=0a5b175a1003a4d97163452df4fe93932adcc5b0d959042fb31f7dc43359cd63
+apk=apk/Krilessa-v0.22.2-stable.apk
+apkSha=da0ac6f377815f643ed0a46291070d7ae25d95c892c782ba528b8a54a6d51eab
+sig=MEYCIQDUIOhQAyuNTsybo7P5hHfNCoPdi+aF4ZvaKqTtV7L5hgIhAKZEe7ZGUsAfHx01KBb7k9uFPrX8ZQshd0z8WT31FpNG
