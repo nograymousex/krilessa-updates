@@ -1,9 +1,9 @@
-version=0.22 stable
-title=Вместе – по-настоящему
-code=31
+version=0.22.1 stable
+title=Аккуратнее список игр
+code=32
 minApk=30
-bundle=bundles/game-31.zip
-bundleSha=bb3a55679c79bb5c0ff29da6e41bbb942461cf3d3f2ccb3329d54e029c2c84dd
-apk=apk/Krilessa-v0.22-stable.apk
-apkSha=3598a27433a649dea94b87c66fdd06eb1f0881b62b116aab62d104108caf66a5
-sig=MEUCIQCumAJLWPJjWXaOOGiKf6o6ByZ8+ntHkgM4IZ25DJBl3wIgZ7c5baXF5tj2ipc/XeEnGv8i3Gy2PRMF4R8NjzEQCd0=
+bundle=bundles/game-32.zip
+bundleSha=9626f2c8239019a4a089a0065b782e5acd03a5172891c819303351db6ed4ea72
+apk=apk/Krilessa-v0.22.1-stable.apk
+apkSha=93d99ac82e180f7a18c9f120a5975173103be94051bf6d61ba6324229d8e8531
+sig=MEUCIAf7KN2YFRA+LqA/R4Y9jypGmOthhdPPuBnqtbuSO8ccAiEArGPrO2NOa7Np5YgQwEBiM6ZPS6yyBNRpTAeQ+Oi/oJE=
