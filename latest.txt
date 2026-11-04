@@ -1,9 +1,9 @@
-version=0.21 stable
-title=Играем вместе!
-code=30
+version=0.22 stable
+title=Вместе – по-настоящему
+code=31
 minApk=30
-bundle=bundles/game-30.zip
-bundleSha=befeb99ac87b6764d2f476d1d56243cedae205e39b02947ac8c35d18be1de667
-apk=apk/Krilessa-v0.21-stable.apk
-apkSha=e63b23d4f0cedeae0b293730e6ae9af80b8024d705f51133fb82c9090c75127a
-sig=MEQCIHFD+Uzx+PYu3SqSuRtjiPqYBOnr6pysWDRVPTzp8ClJAiBzRedcFA58QDSlg4SZV7dQhTFYxKLcoOH6TGf9MWLhiQ==
+bundle=bundles/game-31.zip
+bundleSha=bb3a55679c79bb5c0ff29da6e41bbb942461cf3d3f2ccb3329d54e029c2c84dd
+apk=apk/Krilessa-v0.22-stable.apk
+apkSha=3598a27433a649dea94b87c66fdd06eb1f0881b62b116aab62d104108caf66a5
+sig=MEUCIQCumAJLWPJjWXaOOGiKf6o6ByZ8+ntHkgM4IZ25DJBl3wIgZ7c5baXF5tj2ipc/XeEnGv8i3Gy2PRMF4R8NjzEQCd0=
