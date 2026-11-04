@@ -1,9 +1,9 @@
-version=0.11.5 beta
-title=Мини-карта подглядывает
-code=27
-minApk=22
-bundle=bundles/game-27.zip
-bundleSha=fd01c7b6c3dda67e0bd0e32a921290001bd6ee5dbf02fcb441c26fa7b2e3e251
-apk=apk/Krilessa-v0.11.5-beta.apk
-apkSha=ea11135b13074a4887a0c8c81bb68f12ad8673dd06fcb4af73e3dcf37e56f69e
-sig=MEUCIF3pIS/A91+QO3LnDvbG10IGArxOGGPSyFc2patUN0baAiEA+pbU6ay/qhCpxZNNEMjedsTKK9leOKkgH8farR288rw=
+version=0.20 stable
+title=Глава 7 и первая стабильная
+code=28
+minApk=28
+bundle=bundles/game-28.zip
+bundleSha=e96b15c8bf52d1cdd2e3bb8230b0ceb6f75f60d739675022eee1b969511fdb56
+apk=apk/Krilessa-v0.20-stable.apk
+apkSha=a28aa52fe08ae0a5772cf0a91f24eeb3898d3d2412d203ab9067ab7c68b98553
+sig=MEQCICgHGzBodnCFKlFpMDHB5Eslfr3Ggvt/CEFncbPIUVnaAiBl0yywqCh/3DRYjFVfgGV1MfjJZm5CHp7SBWr8yxiocg==
