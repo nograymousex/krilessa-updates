@@ -1,9 +1,9 @@
-version=0.22.2 stable
-title=У каждой – своё здоровье
-code=33
+version=0.22.3 stable
+title=Испытания – вместе
+code=34
 minApk=30
-bundle=bundles/game-33.zip
-bundleSha=0a5b175a1003a4d97163452df4fe93932adcc5b0d959042fb31f7dc43359cd63
-apk=apk/Krilessa-v0.22.2-stable.apk
-apkSha=da0ac6f377815f643ed0a46291070d7ae25d95c892c782ba528b8a54a6d51eab
-sig=MEYCIQDUIOhQAyuNTsybo7P5hHfNCoPdi+aF4ZvaKqTtV7L5hgIhAKZEe7ZGUsAfHx01KBb7k9uFPrX8ZQshd0z8WT31FpNG
+bundle=bundles/game-34.zip
+bundleSha=441211eda3e52bd0598134bcb4c3771aca07f03ba73b1c3d461eb940e4bdd786
+apk=apk/Krilessa-v0.22.3-stable.apk
+apkSha=b802814fc3b6fc5c1ec5d2dec45a40373ba0f67f4638784d82047637df237ad5
+sig=MEQCIE/0BJcbEUyiUVEoiPw6+I1p6WCxr1gHIUAeShnzd5zcAiBFi4nKnDWKUgx65svSWKvOSLrnqD1UVRMHB4463FhdPg==
