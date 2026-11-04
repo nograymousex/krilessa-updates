@@ -1,9 +1,9 @@
-version=0.22.4 stable
-title=Большая проверка
-code=35
-minApk=30
-bundle=bundles/game-35.zip
-bundleSha=ee8ffcc1c2498768feffc2daf51739e2c366205c95561e27d0f72a30bd4f4cea
-apk=apk/Krilessa-v0.22.4-stable.apk
-apkSha=99a66d88bf984723433dc16dd688e08dad686d1652833e43ba6a24547a709b0f
-sig=MEUCIDm0BcjskzVERF3MCK1CrR53KgNbAYYBc2tuhKyyiVbdAiEA9oUbSmJBrIFx6nb/w1YewQWBUcGJkPqKgbQnM3EFpLU=
+version=0.22.5 stable
+title=Крепкая связь
+code=36
+minApk=36
+bundle=bundles/game-36.zip
+bundleSha=521abc876c9fea320e7f1202143bfec90d411c0d841117709b93751dfcd4ddc6
+apk=apk/Krilessa-v0.22.5-stable.apk
+apkSha=5d58e68fd2dd15f197337cd664cbb2a0aa581b6d451ab423d9da0ae410b86c9a
+sig=MEYCIQDGhViikfrrMXDhp4y0EehOZH4a2CSdAKKLo/SScWnVewIhALxqS8bAyfteGHf4gVA7HOwLebZM5lINFYHfWTvHepln
