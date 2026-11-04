@@ -1,9 +1,9 @@
-version=0.20 stable
-title=Глава 7 и первая стабильная
-code=28
+version=0.20.1 stable
+title=Красивый финал
+code=29
 minApk=28
-bundle=bundles/game-28.zip
-bundleSha=e96b15c8bf52d1cdd2e3bb8230b0ceb6f75f60d739675022eee1b969511fdb56
-apk=apk/Krilessa-v0.20-stable.apk
-apkSha=a28aa52fe08ae0a5772cf0a91f24eeb3898d3d2412d203ab9067ab7c68b98553
-sig=MEQCICgHGzBodnCFKlFpMDHB5Eslfr3Ggvt/CEFncbPIUVnaAiBl0yywqCh/3DRYjFVfgGV1MfjJZm5CHp7SBWr8yxiocg==
+bundle=bundles/game-29.zip
+bundleSha=5d7355aee4989e5a8eba57d95e2c100c43bb2d07eb3289e8c0d6680c3c0a5b2c
+apk=apk/Krilessa-v0.20.1-stable.apk
+apkSha=4b31d70989a789c108d1e18517b4e6504972846687e2297063ea973388198abf
+sig=MEYCIQDzvIy/HxXJKY5Iofo+mIJVdLB+ckO8OgzF6FnKu/+sOQIhAMFeeAq2GLSVeR+a7wMh+8waV4Bfi4wFp4lK9EgSTTJa
