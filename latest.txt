@@ -1,9 +1,9 @@
-version=0.11.4 beta
-title=Джойстик и мини-карта под себя
-code=26
+version=0.11.5 beta
+title=Мини-карта подглядывает
+code=27
 minApk=22
-bundle=bundles/game-26.zip
-bundleSha=b0f9b83fdf23a3aef5b9b1bff0d9c127c7ea3b3da002b8320d456d9b27d6c65c
-apk=apk/Krilessa-v0.11.4-beta.apk
-apkSha=aea28de9e844f39ed49d2dffb4651b8b6bce32b1b2e733e40081e59292c43346
-sig=MEQCICn5h65DbZmZjHHufsswWgrPRhLWV6B9eWy6bG1jWJIkAiA07SmQw+wSvmrSqLbnmLQtVTvHYfEubd10OSO7LLrogA==
+bundle=bundles/game-27.zip
+bundleSha=fd01c7b6c3dda67e0bd0e32a921290001bd6ee5dbf02fcb441c26fa7b2e3e251
+apk=apk/Krilessa-v0.11.5-beta.apk
+apkSha=ea11135b13074a4887a0c8c81bb68f12ad8673dd06fcb4af73e3dcf37e56f69e
+sig=MEUCIF3pIS/A91+QO3LnDvbG10IGArxOGGPSyFc2patUN0baAiEA+pbU6ay/qhCpxZNNEMjedsTKK9leOKkgH8farR288rw=
