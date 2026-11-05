@@ -1,9 +1,9 @@
-version=0.30 stable
-title=Режимы, награды и Кринжопедия
-code=37
+version=0.31 stable
+title=Слава
+code=38
 minApk=37
-bundle=bundles/game-37.zip
-bundleSha=07720d887d5c30ba9a65e86e6d2f8712f6b6da160b0152f424c22d332dc1abff
-apk=apk/Krilessa-v0.30-stable.apk
-apkSha=ffca5ef6dd287b7e8b39117b3d3cead302c0a9d0c5b1094b13697fdec779d89d
-sig=MEYCIQCNT1IvAmd7JPFC1YYP3S+4H75ZP3QywixVJ6TESeb36QIhALGoQnvM48bGtxnefxVXJn6XpP94f/FIm7HWlU5NGDbb
+bundle=bundles/game-38.zip
+bundleSha=f787d00626733e9a21daa07a81b9099b39cb2acaa81ddb8e1aa4629b0b472d19
+apk=apk/Krilessa-v0.31-stable.apk
+apkSha=29a2246e411dc7b2e62e2674d217d216933ebdcbff178a5184ba819be37226b2
+sig=MEYCIQClpD17DsStoLGSSYMTgdinCCT59o7YWXyFZI2oEflOhwIhAND7jG7GMRWqQNOMGUhKDuV44V8ffNhvGJU1vhxLzEZ7
