@@ -1,9 +1,9 @@
-version=0.34 stable
-title=Домик
-code=45
+version=0.37 stable
+title=Оборона вместе
+code=46
 minApk=39
-bundle=bundles/game-45.zip
-bundleSha=2d32d47393ab3c60a355443641ca3270b0c5d143dd60b6d52e23e91237f715d3
-apk=apk/Krilessa-v0.34-stable.apk
-apkSha=53a85b3b348d546c221fe32cc7c06f587c683828bd0b9c46f3bfa9df523649b2
-sig=MEUCIH1XrUQIe/RtPEfOhqWXGJ8e9UK058gh3hN6WdnLgrX8AiEA3vjoHdgUkmf5WYBd50R/TF1ONTwe1pHR0CeITkpmPQ4=
+bundle=bundles/game-46.zip
+bundleSha=3a0d855504da6c03d2183fe4967a741755615aa2711af192d379fc1087ae16e7
+apk=apk/Krilessa-v0.37-stable.apk
+apkSha=1005099211891b466921e3f9925eb0ed7e71b04c98a023d2d1db9487d5fdd331
+sig=MEUCIQCPz50OTe4iTgcNe71XEm/DmayCaOBmQ5IHwyIz/yMe9gIgbRqrogLk1NW0HCqqyk+HBRfaKx+herDOKdVj9DNp048=
