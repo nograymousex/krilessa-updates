@@ -1,9 +1,9 @@
-version=0.31.1 stable
-title=Бездна не пропадает
-code=39
+version=0.31.2 stable
+title=Чёрный ящик
+code=40
 minApk=39
-bundle=bundles/game-39.zip
-bundleSha=0b69e2acb811ffdbc8d801b57abc8fa780ad991be08b5608cae39ab6108cb314
-apk=apk/Krilessa-v0.31.1-stable.apk
-apkSha=a499eec24395c0b4f184b2592abb13339d18cba0a44eddcc2c838e9f2a9798d2
-sig=MEUCIQDYNRnwL7bras90FujkROCyBBg7b1sDgoSc+K2fXXA+eQIgddBSgwJkfP3WkCaxKUviKZ9MtkV8j4dS2FHTQLKe8iE=
+bundle=bundles/game-40.zip
+bundleSha=b0a1b31c9eb5d209ee0e11c61ac2ff8d0fc685d7e738cabecac2a9c78d20755a
+apk=apk/Krilessa-v0.31.2-stable.apk
+apkSha=a37ec0fe5c1827b1c2a1d3a424642b6027c792d85c38aff7d038bb2a2d93bde4
+sig=MEYCIQCL1v4qfA2slicaJfVeXYIudHU6VM/dK0JJnLJhx63GrAIhAMDSOcOMccnrpA+32Q9SQZnaB8fXbLX/MJRIHVpkMvXx
