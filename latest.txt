@@ -1,9 +1,9 @@
-version=0.33 stable
-title=Сила и тайны
-code=44
+version=0.34 stable
+title=Домик
+code=45
 minApk=39
-bundle=bundles/game-44.zip
-bundleSha=5865f50f8bc0630d9e3da78be853af2a794b470bfd599b00e4adb33f07d7028b
-apk=apk/Krilessa-v0.33-stable.apk
-apkSha=32028e8c0f1566f6867a30ddf72669bb1099a0da292bc921e7df8cd362245b49
-sig=MEYCIQCdQsWqXCvkz39CBD1cXCGkrrA4Kti+fan5i08Yr9s+2AIhANDSKSa2Y1X4/PE16tmkBrFxRkCRMIJuB/gJLD3RwuGn
+bundle=bundles/game-45.zip
+bundleSha=2d32d47393ab3c60a355443641ca3270b0c5d143dd60b6d52e23e91237f715d3
+apk=apk/Krilessa-v0.34-stable.apk
+apkSha=53a85b3b348d546c221fe32cc7c06f587c683828bd0b9c46f3bfa9df523649b2
+sig=MEUCIH1XrUQIe/RtPEfOhqWXGJ8e9UK058gh3hN6WdnLgrX8AiEA3vjoHdgUkmf5WYBd50R/TF1ONTwe1pHR0CeITkpmPQ4=
