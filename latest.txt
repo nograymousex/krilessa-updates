@@ -1,9 +1,9 @@
-version=0.37 stable
+version=0.35 stable
 title=Оборона вместе
-code=46
+code=47
 minApk=39
-bundle=bundles/game-46.zip
-bundleSha=3a0d855504da6c03d2183fe4967a741755615aa2711af192d379fc1087ae16e7
-apk=apk/Krilessa-v0.37-stable.apk
-apkSha=1005099211891b466921e3f9925eb0ed7e71b04c98a023d2d1db9487d5fdd331
-sig=MEUCIQCPz50OTe4iTgcNe71XEm/DmayCaOBmQ5IHwyIz/yMe9gIgbRqrogLk1NW0HCqqyk+HBRfaKx+herDOKdVj9DNp048=
+bundle=bundles/game-47.zip
+bundleSha=3819810d72529e34981607faac4898472db7d6d0e525513aa9c90e4007f6beed
+apk=apk/Krilessa-v0.35-stable.apk
+apkSha=9d335525f7177358407f5ed02b212fb5e1c7bce3f1258d3d82b1c69a0ae7a023
+sig=MEYCIQCdYHU72xPGOCneQp+zjg/V2eueKyBeGb8euFEl93kf1QIhANdT8JUcwWhobknym1x0pki8p739+rzRVGSlapb3C7e4
