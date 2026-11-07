@@ -1,9 +1,9 @@
-version=0.31.3 stable
-title=Бездна звучит по-новому
-code=41
+version=0.31.4 stable
+title=Золото снова золото
+code=42
 minApk=39
-bundle=bundles/game-41.zip
-bundleSha=0bc8e8e8e50224523dba301ecfc9897a27ca8fe428132f38aa2b4da924b8600c
-apk=apk/Krilessa-v0.31.3-stable.apk
-apkSha=c1818fe59484108ec3d6217f203d06dce10b11ebe0b1f80e06fd3e4c732d32e3
-sig=MEYCIQCZCa4vlE3zv9LFyK5XFvThUkxILLDP8WFqRNSvh8YhAwIhAKG2nFprwE5ph8GZcy63pIeaQtvT2YRnJnAVTghKBJfl
+bundle=bundles/game-42.zip
+bundleSha=ba51553d64c2cd27c6843b2ff60694676bcbe9581b044703b7aad1a22684464f
+apk=apk/Krilessa-v0.31.4-stable.apk
+apkSha=80757e800579db96f617e3a1a17888ddd6558e5ed68604547e138d9cb4e56441
+sig=MEYCIQCCBqSEejHEgerNGCY11eOPw4G5EUZYslBegjeIVTtdYwIhAN3p0aucYbJfMvsaTt7VTKpkZwARcRXa/SsZaRprCuGQ
