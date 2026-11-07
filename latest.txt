@@ -1,9 +1,9 @@
-version=0.32 stable
-title=Сезоны
-code=43
+version=0.33 stable
+title=Сила и тайны
+code=44
 minApk=39
-bundle=bundles/game-43.zip
-bundleSha=2616823afa61b38a87d1fafe3bf613a19696fb639185fd9ddc711a4317ce11cb
-apk=apk/Krilessa-v0.32-stable.apk
-apkSha=d03948ec89bf2856073e7a8400837a31dd4d148272451d34cc557c0cf8641da6
-sig=MEYCIQCrtle/oN3IQhQ6uH8wHOPIiKVUsnsJ+nZ8mETNpDPLLAIhALr++dvCjFwG0RbBYWPjdlw6XAOXKmIG78B3SjbqY/bu
+bundle=bundles/game-44.zip
+bundleSha=5865f50f8bc0630d9e3da78be853af2a794b470bfd599b00e4adb33f07d7028b
+apk=apk/Krilessa-v0.33-stable.apk
+apkSha=32028e8c0f1566f6867a30ddf72669bb1099a0da292bc921e7df8cd362245b49
+sig=MEYCIQCdQsWqXCvkz39CBD1cXCGkrrA4Kti+fan5i08Yr9s+2AIhANDSKSa2Y1X4/PE16tmkBrFxRkCRMIJuB/gJLD3RwuGn
