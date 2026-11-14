@@ -1,9 +1,9 @@
-version=0.35.2 stable
-title=Оборона вместе 2.0
-code=49
+version=0.35.3 stable
+title=Все готовы?
+code=50
 minApk=39
-bundle=bundles/game-49.zip
-bundleSha=17a3216d980d2dba286976ef1be85021c010fc8d35f471869ee7362cafd927a3
-apk=apk/Krilessa-v0.35.2-stable.apk
-apkSha=44bc8a3d0ac44ff447acfa7a16588f5fe75fe50a34137c09f394a4c69deece81
-sig=MEUCIQD9Bk3g+0vk5AmAfGV1RI2TZTZa0H44GGEYwvMTYuI4JAIgFu7nM2VrK8z8sL+EjmRftM01eMCCF5tVRa7EGNfWpRo=
+bundle=bundles/game-50.zip
+bundleSha=627592e258ab2a168852591a7e205c3fe4990c2071d5962091c59ffa78365af4
+apk=apk/Krilessa-v0.35.3-stable.apk
+apkSha=9ae9e94fa240692bf5112df5393d91dc228cc635e054b629e3fdec04b045b1f3
+sig=MEQCIAIEjC1ZK23WFVGc6sUDmoFNwCSYu0ULXOG9fT7EJxq7AiBVHHjbO1d4FAp858AhCHgMXmxyDezap5JTL6bqZ4a34A==
