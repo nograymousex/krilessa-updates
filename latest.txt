@@ -1,9 +1,9 @@
-version=0.35.1 stable
-title=Большая оборона
-code=48
+version=0.35.2 stable
+title=Оборона вместе 2.0
+code=49
 minApk=39
-bundle=bundles/game-48.zip
-bundleSha=abcca509990908a57ae37100971803de65cd5a26cd9ad3fef1aa5c2eb114ee9b
-apk=apk/Krilessa-v0.35.1-stable.apk
-apkSha=f94f40730e6b471b28b5cdc7f29708d6bc8bcb11b59625ec8a64cbf077df46a0
-sig=MEUCIC8qzgi8NMaTSc7x9G/csGzn5/9arfVNb0+dvIOmCB09AiEA4dAZVDRtpNk/m9GXVyP56lJJqnb/gEEz3AgzFBbqDo4=
+bundle=bundles/game-49.zip
+bundleSha=17a3216d980d2dba286976ef1be85021c010fc8d35f471869ee7362cafd927a3
+apk=apk/Krilessa-v0.35.2-stable.apk
+apkSha=44bc8a3d0ac44ff447acfa7a16588f5fe75fe50a34137c09f394a4c69deece81
+sig=MEUCIQD9Bk3g+0vk5AmAfGV1RI2TZTZa0H44GGEYwvMTYuI4JAIgFu7nM2VrK8z8sL+EjmRftM01eMCCF5tVRa7EGNfWpRo=
