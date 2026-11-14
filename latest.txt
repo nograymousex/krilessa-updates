@@ -1,9 +1,9 @@
-version=0.35.3 stable
-title=Все готовы?
-code=50
+version=0.35.4 stable
+title=Башни дальнобойнее
+code=51
 minApk=39
-bundle=bundles/game-50.zip
-bundleSha=627592e258ab2a168852591a7e205c3fe4990c2071d5962091c59ffa78365af4
-apk=apk/Krilessa-v0.35.3-stable.apk
-apkSha=9ae9e94fa240692bf5112df5393d91dc228cc635e054b629e3fdec04b045b1f3
-sig=MEQCIAIEjC1ZK23WFVGc6sUDmoFNwCSYu0ULXOG9fT7EJxq7AiBVHHjbO1d4FAp858AhCHgMXmxyDezap5JTL6bqZ4a34A==
+bundle=bundles/game-51.zip
+bundleSha=4cf8e2e9002c57c5b841240ccd9e6e849e67ff8f320764a68623d2e4378c066b
+apk=apk/Krilessa-v0.35.4-stable.apk
+apkSha=10dac39d0304031145e99f09edb40a5064011745fe9e8f1b38e818a2f40a28f1
+sig=MEYCIQCBfMwgzlVGpVPi1VmQ0HjyTbU7yRC6+c4fbGDne1LT7wIhAIQ5k/fCKQll3OV+eMh7RewDj8dgt8/GgWI/qVu12evy
