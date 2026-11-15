@@ -1,9 +1,9 @@
-version=1.0.13
-title=Старый добрый стиль
-code=74
+version=1.0.14
+title=Тайная фабрика Крилей
+code=75
 minApk=39
-bundle=bundles/game-74.zip
-bundleSha=bc6e645d64da92215bd0d09e58367cb45d2e5f7c60d67184e72a76ce5608a2f5
-apk=apk/Krilessa-v1.0.13.apk
-apkSha=6b4833fe293976d3199d00767c61566f95f58f0395e291753b55eab774cf93be
-sig=MEUCIAEtLDuZPIsxWykFbdIbR2RoFiEnaM5d5sN+oMkspSy6AiEAvoqQ3G2B8yq67L3Ge/jB+4827zcb7iUxhQQEF8M6fI4=
+bundle=bundles/game-75.zip
+bundleSha=8f118189bafe66391d2b36a0791bb411263060e1f1f97c2393875dd1580c4b9f
+apk=apk/Krilessa-v1.0.14.apk
+apkSha=52371a506931324f659ebffaffa7d795b88781e9429b6d43a2b4e66f14b7fbe9
+sig=MEUCIQCpkdxzF7/oUYOU9o/hcB2cPQN6zUfg948pzhB3ZkyIKgIgKwo1BjgK+/UCbP2Fh2Vk6V90SxAhXMOvN14tJG9maC0=
