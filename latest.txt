@@ -1,9 +1,9 @@
-version=1.0.10
-title=Крили снова крили
-code=71
+version=1.0.11
+title=Волна за волной
+code=72
 minApk=39
-bundle=bundles/game-71.zip
-bundleSha=ca4fa03e5fe4156fef65bf92d67bfc4d79eaf6760e797c1ddedfbc96a2b24e0b
-apk=apk/Krilessa-v1.0.10.apk
-apkSha=727b9d7da0aac42412eb52c9f050ae47f80cfcde27760115091380fce7fe1b94
-sig=MEQCIGWl7C+reQHFD7ABOZkQI5Bhd2u1W0lQy+76QQwJJ55/AiAgwW6mLjI8WrT91H7s4/pW0sltc0Lbmc1D40MzDf7snQ==
+bundle=bundles/game-72.zip
+bundleSha=37344ed7d49953bfff38e4735871aed2fb232a65d68b62c6dee2093f00fe3367
+apk=apk/Krilessa-v1.0.11.apk
+apkSha=d6aab377a58060f03de4a51e1a5e2168c5e0267b33f2c37e722031d838d3ed30
+sig=MEYCIQCLRAvKSFBZAZ7Zs2nnsYFAZGjtb6U8QCc+s0GZT4RNzwIhAP8T90YFOsjLKHue5mgmngJcO+2DTtxwDKYe27dcLMzF
