@@ -1,9 +1,9 @@
-version=0.35.4 stable
-title=Башни дальнобойнее
-code=51
+version=0.35.5 stable
+title=Без лекарей
+code=54
 minApk=39
-bundle=bundles/game-51.zip
-bundleSha=4cf8e2e9002c57c5b841240ccd9e6e849e67ff8f320764a68623d2e4378c066b
-apk=apk/Krilessa-v0.35.4-stable.apk
-apkSha=10dac39d0304031145e99f09edb40a5064011745fe9e8f1b38e818a2f40a28f1
-sig=MEYCIQCBfMwgzlVGpVPi1VmQ0HjyTbU7yRC6+c4fbGDne1LT7wIhAIQ5k/fCKQll3OV+eMh7RewDj8dgt8/GgWI/qVu12evy
+bundle=bundles/game-54.zip
+bundleSha=118c356e855fa9128cafa1012cf1a2d3ad9708d6bbdd087f724db697a7115193
+apk=apk/Krilessa-v0.35.5-stable.apk
+apkSha=90873f8a91ea835304b6e765bd8bc0f19490fd220e640df1b4213aac9856aab9
+sig=MEYCIQCZOK+02Cpo0h7pRuI0McxWlaMfqQedSY8FlpLtBeB2igIhAIhvW/tUaH0SDICy3re63v/8keHRtlEQqJ409w6eqxrP
