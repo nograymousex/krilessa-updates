@@ -1,9 +1,9 @@
-version=0.35.6 stable
-title=Сезон на паузе
-code=56
+version=1.0.0-release
+title=Книжная сказка
+code=61
 minApk=39
-bundle=bundles/game-56.zip
-bundleSha=9041222c72e2355ebc347139ccbe73fccec64f5b9f6e2356d8e8c6024d07dd22
-apk=apk/Krilessa-v0.35.6-stable.apk
-apkSha=4d311a5c4e7d82103500630e63d4872264c5d9104bfd416d754977402d9d9134
-sig=MEYCIQDwl7o+Q21JWTJIB5YI8E4/ByD7iUfMa9uUSjWteV/zeQIhAPF8fgIQrvNdNeTA0tcNJGykAZyZjVrOm6Dfs/+K2fPC
+bundle=bundles/game-61.zip
+bundleSha=983fc9230a8eb95471f1ba5f5cf8077c805bd73a32cf6aebb2d9e70fb202f3f0
+apk=apk/Krilessa-v1.0.0-release.apk
+apkSha=fef51407370151efa051c95cbcaaddd121f118ed1a98c189979c4a80d8db8c12
+sig=MEQCIEj383B8FV4ftwhg+7SVIghvedzIw0O3zQCDm1ia9wDtAiB+Hi0p6LoNHFl+zDRCvWXZmg5KXuZ2e12+YU6YieebJw==
