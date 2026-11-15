@@ -1,9 +1,9 @@
-version=1.0.0-release
-title=Книжная сказка
-code=61
+version=1.0.1
+title=Рыжовая в книге
+code=62
 minApk=39
-bundle=bundles/game-61.zip
-bundleSha=14f66732ed00665254fda025d609a119be4e927a8998a3577c65822407cce469
-apk=apk/Krilessa-v1.0.0-release.apk
-apkSha=fef51407370151efa051c95cbcaaddd121f118ed1a98c189979c4a80d8db8c12
-sig=MEYCIQCC4fBu7cxa+mhsuTSgj+LtH8QNQ7D0JO/VvY7exmL7PAIhAIrPaLXbGP2EHYrbeKt7Jehs1tpslRYXdDWBTHvnZB/7
+bundle=bundles/game-62.zip
+bundleSha=2d5328f8063392196767ab91e61891341982c454189cc14544253e0487e7174b
+apk=apk/Krilessa-v1.0.1.apk
+apkSha=c47e1fdab3a47723fd24e9edd563524b9b2f6b6ccf689ca27671e4a792b2eade
+sig=MEYCIQCDwXX8GUEbbUjadu35U9U2RjUH4tLfkYAXtWaVZB0ooQIhAP+Ng1WkZ+M3+fsbAeyEb6Cen3LniNRuW8kXBuNUn+J0
