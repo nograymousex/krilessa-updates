@@ -1,9 +1,9 @@
-version=1.0.6
-title=Дружба крепче
-code=67
+version=1.0.7
+title=Честные копилки
+code=68
 minApk=39
-bundle=bundles/game-67.zip
-bundleSha=caa92bb28454092dd3da66c7869b4a122b5a1cad63633c50039a12c013c8cda4
-apk=apk/Krilessa-v1.0.6.apk
-apkSha=eae2ec04fd2bb6ede8223cbcdb12d673d24260c12c3fc9f7d55715fb64893a5a
-sig=MEQCIA8ziz1PWHBgjWRC9kFwNxikFrg704yUJy9FFy95/vhFAiBAGiWBkdZzo71TlKNxOLN2KzAC6w9UNm8Y29ssm3uttQ==
+bundle=bundles/game-68.zip
+bundleSha=6f2d629fd2f64284dc17d6ad565793ace234b0179c401c62a5f55bb7ea565a4c
+apk=apk/Krilessa-v1.0.7.apk
+apkSha=937bf2e587b10a79982f3d03edfeae000d05417da5c7f5523c3e5ce4de9dccfd
+sig=MEQCIAKZKZo7Q0cCpFmw+jvlm/G18HacEo6YehOfu8cS0KjKAiBtLy5XO2ioWBawE0pW4VhFqxhv/kM/o0n+bILplD2v2A==
