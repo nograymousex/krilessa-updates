@@ -1,9 +1,9 @@
-version=1.0.15
-title=Честные проценты
-code=76
+version=1.0.16
+title=Баланс и знакомые лица
+code=77
 minApk=39
-bundle=bundles/game-76.zip
-bundleSha=0c8bb4acc08a710dd155ab5dc0e5be51920dff8d7a4803b67b536b32a10b0299
-apk=apk/Krilessa-v1.0.15.apk
-apkSha=3749ce4b70326822071611905dc24ee75d3439f4fb67ad8685affc0a314ad0c0
-sig=MEUCIQDd5O6ictHAK2gS3guNr5MiysxV6j6zB2gt71c0CkBEJAIgRFoKkwoyhJSzB9exm//KrbgmmZIwbAkFhlPhvc/6ETs=
+bundle=bundles/game-77.zip
+bundleSha=52b0f7ebe608787c1c0d67568969a901406d3413dc2583eedacb5539c757dc08
+apk=apk/Krilessa-v1.0.16.apk
+apkSha=c3ee1a0be19fb2e062af91ee6cf8304d1bc0471a93454c98bf07871bcd92cf7d
+sig=MEYCIQDzL0tOI6vWV5r4Y/n5677KyFza5+kFN5i/63Jo5MWqPgIhANeOC0vXago7gUvrOEXcLadHbyKHXXk+BA/ocyq5yZdl
