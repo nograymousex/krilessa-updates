@@ -1,9 +1,9 @@
-version=1.0.9
-title=Нарисованные значки
-code=70
+version=1.0.10
+title=Крили снова крили
+code=71
 minApk=39
-bundle=bundles/game-70.zip
-bundleSha=048980f01a60f6abab6d24e53bde985d9b81cfc767ae812d77e060da9e2721a0
-apk=apk/Krilessa-v1.0.9.apk
-apkSha=4cf3f66cb2794f1138a5aa409ecc42d4703e9aa2eaf6a4d16aace01d1993dad1
-sig=MEQCIDbviAnfYO8sPn2Dw49H0MmIdV2afP/ZixVH3jadJdRuAiAU3McwvZcy7oy2eQE4yDnR+UaI6koEFVL9M/U+HcBt5Q==
+bundle=bundles/game-71.zip
+bundleSha=ca4fa03e5fe4156fef65bf92d67bfc4d79eaf6760e797c1ddedfbc96a2b24e0b
+apk=apk/Krilessa-v1.0.10.apk
+apkSha=727b9d7da0aac42412eb52c9f050ae47f80cfcde27760115091380fce7fe1b94
+sig=MEQCIGWl7C+reQHFD7ABOZkQI5Bhd2u1W0lQy+76QQwJJ55/AiAgwW6mLjI8WrT91H7s4/pW0sltc0Lbmc1D40MzDf7snQ==
