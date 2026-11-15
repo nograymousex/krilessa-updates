@@ -1,9 +1,9 @@
-version=1.0.7
-title=Честные копилки
-code=68
+version=1.0.8
+title=Копилки растут
+code=69
 minApk=39
-bundle=bundles/game-68.zip
-bundleSha=6f2d629fd2f64284dc17d6ad565793ace234b0179c401c62a5f55bb7ea565a4c
-apk=apk/Krilessa-v1.0.7.apk
-apkSha=937bf2e587b10a79982f3d03edfeae000d05417da5c7f5523c3e5ce4de9dccfd
-sig=MEQCIAKZKZo7Q0cCpFmw+jvlm/G18HacEo6YehOfu8cS0KjKAiBtLy5XO2ioWBawE0pW4VhFqxhv/kM/o0n+bILplD2v2A==
+bundle=bundles/game-69.zip
+bundleSha=03c1857f1cc87c71bb302917d531c204f984bc2869af6a81968946192da1e57c
+apk=apk/Krilessa-v1.0.8.apk
+apkSha=e5b49a5da12bd7ce51dc59545d3b1f86b6d693bb54a8487f747cf10e07a08d4f
+sig=MEUCIF1lkSerCLxKnPO8X/bjfpq84sDcEdtoFe37XEC/gXk3AiEAmzPVularltK75OKTH2o0EXRPYZ2J2DQCfaD7FwPar38=
