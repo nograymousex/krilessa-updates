@@ -1,9 +1,9 @@
-version=1.0.14
-title=Тайная фабрика Крилей
-code=75
+version=1.0.15
+title=Честные проценты
+code=76
 minApk=39
-bundle=bundles/game-75.zip
-bundleSha=8f118189bafe66391d2b36a0791bb411263060e1f1f97c2393875dd1580c4b9f
-apk=apk/Krilessa-v1.0.14.apk
-apkSha=52371a506931324f659ebffaffa7d795b88781e9429b6d43a2b4e66f14b7fbe9
-sig=MEUCIQCpkdxzF7/oUYOU9o/hcB2cPQN6zUfg948pzhB3ZkyIKgIgKwo1BjgK+/UCbP2Fh2Vk6V90SxAhXMOvN14tJG9maC0=
+bundle=bundles/game-76.zip
+bundleSha=0c8bb4acc08a710dd155ab5dc0e5be51920dff8d7a4803b67b536b32a10b0299
+apk=apk/Krilessa-v1.0.15.apk
+apkSha=3749ce4b70326822071611905dc24ee75d3439f4fb67ad8685affc0a314ad0c0
+sig=MEUCIQDd5O6ictHAK2gS3guNr5MiysxV6j6zB2gt71c0CkBEJAIgRFoKkwoyhJSzB9exm//KrbgmmZIwbAkFhlPhvc/6ETs=
