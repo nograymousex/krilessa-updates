@@ -1,9 +1,9 @@
-version=1.0.8
-title=Копилки растут
-code=69
+version=1.0.9
+title=Нарисованные значки
+code=70
 minApk=39
-bundle=bundles/game-69.zip
-bundleSha=03c1857f1cc87c71bb302917d531c204f984bc2869af6a81968946192da1e57c
-apk=apk/Krilessa-v1.0.8.apk
-apkSha=e5b49a5da12bd7ce51dc59545d3b1f86b6d693bb54a8487f747cf10e07a08d4f
-sig=MEUCIF1lkSerCLxKnPO8X/bjfpq84sDcEdtoFe37XEC/gXk3AiEAmzPVularltK75OKTH2o0EXRPYZ2J2DQCfaD7FwPar38=
+bundle=bundles/game-70.zip
+bundleSha=048980f01a60f6abab6d24e53bde985d9b81cfc767ae812d77e060da9e2721a0
+apk=apk/Krilessa-v1.0.9.apk
+apkSha=4cf3f66cb2794f1138a5aa409ecc42d4703e9aa2eaf6a4d16aace01d1993dad1
+sig=MEQCIDbviAnfYO8sPn2Dw49H0MmIdV2afP/ZixVH3jadJdRuAiAU3McwvZcy7oy2eQE4yDnR+UaI6koEFVL9M/U+HcBt5Q==
