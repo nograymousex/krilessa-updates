@@ -1,9 +1,9 @@
-version=1.0.4
-title=Вместе надолго
-code=65
+version=1.0.5
+title=Мутаторы вместе
+code=66
 minApk=39
-bundle=bundles/game-65.zip
-bundleSha=b8da356058a9acf14b5012097bcf21508970191911f1b2c65983917fbf7d3c71
-apk=apk/Krilessa-v1.0.4.apk
-apkSha=422249b5d14f1422a4943d82e2d2f8cedc8d2b8373f4cfd4aa06662d71443681
-sig=MEUCID69HxMo+CGs0HVR+QxJSJ5PKS77Xb1thnhlLwDtAdPgAiEA77Ed+Hw0O2257Vdll49zrjqD19XJOmcUNnPEFYfuHLI=
+bundle=bundles/game-66.zip
+bundleSha=2646233f9c83b236c056c8b045666a6f5216c4796f45b9edfce3ff1e4a7ed1e5
+apk=apk/Krilessa-v1.0.5.apk
+apkSha=47cad789a4c78ab285dd9e816b06d3aabbefafbfcb605f3091356c785c82d7d7
+sig=MEQCIAGgp7g6rCUbpghthhMtvLcLdN6Tr9zGd8hV3yPl7boQAiBsYS3sDpPvQhhoZokpTyN1nLR+HUtUU/y/G3d++AVdvQ==
