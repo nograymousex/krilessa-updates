@@ -3,7 +3,7 @@ title=Книжная сказка
 code=61
 minApk=39
 bundle=bundles/game-61.zip
-bundleSha=983fc9230a8eb95471f1ba5f5cf8077c805bd73a32cf6aebb2d9e70fb202f3f0
+bundleSha=14f66732ed00665254fda025d609a119be4e927a8998a3577c65822407cce469
 apk=apk/Krilessa-v1.0.0-release.apk
 apkSha=fef51407370151efa051c95cbcaaddd121f118ed1a98c189979c4a80d8db8c12
-sig=MEQCIEj383B8FV4ftwhg+7SVIghvedzIw0O3zQCDm1ia9wDtAiB+Hi0p6LoNHFl+zDRCvWXZmg5KXuZ2e12+YU6YieebJw==
+sig=MEYCIQCC4fBu7cxa+mhsuTSgj+LtH8QNQ7D0JO/VvY7exmL7PAIhAIrPaLXbGP2EHYrbeKt7Jehs1tpslRYXdDWBTHvnZB/7
