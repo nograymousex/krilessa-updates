@@ -1,9 +1,9 @@
-version=1.0.11
-title=Волна за волной
-code=72
+version=1.0.12
+title=Честная статистика
+code=73
 minApk=39
-bundle=bundles/game-72.zip
-bundleSha=37344ed7d49953bfff38e4735871aed2fb232a65d68b62c6dee2093f00fe3367
-apk=apk/Krilessa-v1.0.11.apk
-apkSha=d6aab377a58060f03de4a51e1a5e2168c5e0267b33f2c37e722031d838d3ed30
-sig=MEYCIQCLRAvKSFBZAZ7Zs2nnsYFAZGjtb6U8QCc+s0GZT4RNzwIhAP8T90YFOsjLKHue5mgmngJcO+2DTtxwDKYe27dcLMzF
+bundle=bundles/game-73.zip
+bundleSha=b8112c9c773003bc7e70e5877d791b0a2880bb951fedc8b1b623b5f4071c3ad3
+apk=apk/Krilessa-v1.0.12.apk
+apkSha=363f7e9571d723a10c5cf14fafda3b242bb498429591bceaf653da0188bd96bc
+sig=MEUCIEDkboQQAfITlrOkfkPSvY2QauH2XBE5dBlbWwOjxTNBAiEA5LXGcwncb5M+mVWX7SH4STVNAMTB6HVSlRA+ZjpirW0=
