@@ -1,9 +1,9 @@
-version=0.35.5 stable
-title=Без лекарей
-code=54
+version=0.35.6 stable
+title=Сезон на паузе
+code=56
 minApk=39
-bundle=bundles/game-54.zip
-bundleSha=118c356e855fa9128cafa1012cf1a2d3ad9708d6bbdd087f724db697a7115193
-apk=apk/Krilessa-v0.35.5-stable.apk
-apkSha=90873f8a91ea835304b6e765bd8bc0f19490fd220e640df1b4213aac9856aab9
-sig=MEYCIQCZOK+02Cpo0h7pRuI0McxWlaMfqQedSY8FlpLtBeB2igIhAIhvW/tUaH0SDICy3re63v/8keHRtlEQqJ409w6eqxrP
+bundle=bundles/game-56.zip
+bundleSha=9041222c72e2355ebc347139ccbe73fccec64f5b9f6e2356d8e8c6024d07dd22
+apk=apk/Krilessa-v0.35.6-stable.apk
+apkSha=4d311a5c4e7d82103500630e63d4872264c5d9104bfd416d754977402d9d9134
+sig=MEYCIQDwl7o+Q21JWTJIB5YI8E4/ByD7iUfMa9uUSjWteV/zeQIhAPF8fgIQrvNdNeTA0tcNJGykAZyZjVrOm6Dfs/+K2fPC
