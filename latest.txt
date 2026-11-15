@@ -1,9 +1,9 @@
-version=1.0.5
-title=Мутаторы вместе
-code=66
+version=1.0.6
+title=Дружба крепче
+code=67
 minApk=39
-bundle=bundles/game-66.zip
-bundleSha=2646233f9c83b236c056c8b045666a6f5216c4796f45b9edfce3ff1e4a7ed1e5
-apk=apk/Krilessa-v1.0.5.apk
-apkSha=47cad789a4c78ab285dd9e816b06d3aabbefafbfcb605f3091356c785c82d7d7
-sig=MEQCIAGgp7g6rCUbpghthhMtvLcLdN6Tr9zGd8hV3yPl7boQAiBsYS3sDpPvQhhoZokpTyN1nLR+HUtUU/y/G3d++AVdvQ==
+bundle=bundles/game-67.zip
+bundleSha=caa92bb28454092dd3da66c7869b4a122b5a1cad63633c50039a12c013c8cda4
+apk=apk/Krilessa-v1.0.6.apk
+apkSha=eae2ec04fd2bb6ede8223cbcdb12d673d24260c12c3fc9f7d55715fb64893a5a
+sig=MEQCIA8ziz1PWHBgjWRC9kFwNxikFrg704yUJy9FFy95/vhFAiBAGiWBkdZzo71TlKNxOLN2KzAC6w9UNm8Y29ssm3uttQ==
