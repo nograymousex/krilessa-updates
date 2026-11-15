@@ -1,9 +1,9 @@
-version=1.0.2
-title=Светлее и дружнее
-code=63
+version=1.0.3
+title=Новые башни
+code=64
 minApk=39
-bundle=bundles/game-63.zip
-bundleSha=18a61acb3cbfa5c15f56b123660f07b18047b345ca521469a507f936107eb27f
-apk=apk/Krilessa-v1.0.2.apk
-apkSha=ab87749b539baa21d2c3ca5b675578e227815631fc9eef7b77da26f161276c59
-sig=MEYCIQCxx1T70Bh5m00gE/lG+jTzV3ZN0wTY14AVp6zvpxqwEQIhALuLEwtzSfcB2OVxe0LPu6H93fofPTwRICOa6WaWjKAK
+bundle=bundles/game-64.zip
+bundleSha=cb38181a0d409042595df7df084cfc6097b2f789c6bb8413a395a432d3af866e
+apk=apk/Krilessa-v1.0.3.apk
+apkSha=230e6e6482d5c82503d82588f794e6719a1712c7324650b06cca006fefdcddf9
+sig=MEQCIHxoSfkmGVV4tt9A/F638/S6IaWszauAwv4JQ/EugRXkAiBoijhyU9+1IUU7ly97H9CSPRfeStbdx4lawoiAb3SBdg==
