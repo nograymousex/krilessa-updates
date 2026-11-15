@@ -1,9 +1,9 @@
-version=1.0.1
-title=Рыжовая в книге
-code=62
+version=1.0.2
+title=Светлее и дружнее
+code=63
 minApk=39
-bundle=bundles/game-62.zip
-bundleSha=2d5328f8063392196767ab91e61891341982c454189cc14544253e0487e7174b
-apk=apk/Krilessa-v1.0.1.apk
-apkSha=c47e1fdab3a47723fd24e9edd563524b9b2f6b6ccf689ca27671e4a792b2eade
-sig=MEYCIQCDwXX8GUEbbUjadu35U9U2RjUH4tLfkYAXtWaVZB0ooQIhAP+Ng1WkZ+M3+fsbAeyEb6Cen3LniNRuW8kXBuNUn+J0
+bundle=bundles/game-63.zip
+bundleSha=18a61acb3cbfa5c15f56b123660f07b18047b345ca521469a507f936107eb27f
+apk=apk/Krilessa-v1.0.2.apk
+apkSha=ab87749b539baa21d2c3ca5b675578e227815631fc9eef7b77da26f161276c59
+sig=MEYCIQCxx1T70Bh5m00gE/lG+jTzV3ZN0wTY14AVp6zvpxqwEQIhALuLEwtzSfcB2OVxe0LPu6H93fofPTwRICOa6WaWjKAK
