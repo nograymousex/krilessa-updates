@@ -1,9 +1,9 @@
-version=1.0.3
-title=Новые башни
-code=64
+version=1.0.4
+title=Вместе надолго
+code=65
 minApk=39
-bundle=bundles/game-64.zip
-bundleSha=cb38181a0d409042595df7df084cfc6097b2f789c6bb8413a395a432d3af866e
-apk=apk/Krilessa-v1.0.3.apk
-apkSha=230e6e6482d5c82503d82588f794e6719a1712c7324650b06cca006fefdcddf9
-sig=MEQCIHxoSfkmGVV4tt9A/F638/S6IaWszauAwv4JQ/EugRXkAiBoijhyU9+1IUU7ly97H9CSPRfeStbdx4lawoiAb3SBdg==
+bundle=bundles/game-65.zip
+bundleSha=b8da356058a9acf14b5012097bcf21508970191911f1b2c65983917fbf7d3c71
+apk=apk/Krilessa-v1.0.4.apk
+apkSha=422249b5d14f1422a4943d82e2d2f8cedc8d2b8373f4cfd4aa06662d71443681
+sig=MEUCID69HxMo+CGs0HVR+QxJSJ5PKS77Xb1thnhlLwDtAdPgAiEA77Ed+Hw0O2257Vdll49zrjqD19XJOmcUNnPEFYfuHLI=
