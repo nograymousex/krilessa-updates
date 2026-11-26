@@ -1,9 +1,9 @@
-version=1.2.0
-title=До первого света
-code=82
+version=1.2.1
+title=Третий звон
+code=83
 minApk=39
-bundle=bundles/game-82.zip
-bundleSha=8c823d9a54f769517a86eece59e44d70191c7630b9d488a2b6864877f41d19a5
-apk=apk/Krilessa-v1.2.0.apk
-apkSha=37dc6d72f46c028cef208fb509c95b526186b489f26b616bd68c7a7a35486097
-sig=MEUCIQDPSjaeHDGTFG+k2SB0/V629V8LwK9seADx1W3QKdVPkAIgPcgIThzqQBNtUf+YV2QPTdhWTO8FXrhdBq4JohLTfAk=
+bundle=bundles/game-83.zip
+bundleSha=1c48480f606c571ce6fafdb9fba49165091e483412bfab73f869caa0960059e9
+apk=apk/Krilessa-v1.2.1.apk
+apkSha=e9d1893f674dcb41f5f39e00f26e06bf8851064f58920d8b9847f77c874256cd
+sig=MEYCIQC+MxJ9Hj7lwtqn21SBiYgC3bcIa1ngK4y4+ltZEX5NVAIhALTcULw8fKAIsUd9ISb9cVMqKFOrww6ACaAbxwfDU3+d
