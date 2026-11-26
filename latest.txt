@@ -1,9 +1,9 @@
-version=1.0.16
-title=Баланс и знакомые лица
-code=77
+version=1.1
+title=Звёздный атлас
+code=78
 minApk=39
-bundle=bundles/game-77.zip
-bundleSha=52b0f7ebe608787c1c0d67568969a901406d3413dc2583eedacb5539c757dc08
-apk=apk/Krilessa-v1.0.16.apk
-apkSha=c3ee1a0be19fb2e062af91ee6cf8304d1bc0471a93454c98bf07871bcd92cf7d
-sig=MEYCIQDzL0tOI6vWV5r4Y/n5677KyFza5+kFN5i/63Jo5MWqPgIhANeOC0vXago7gUvrOEXcLadHbyKHXXk+BA/ocyq5yZdl
+bundle=bundles/game-78.zip
+bundleSha=004c05ce7cb0e1b54d993b0dd47c2d79759768687208af5b887b5560a657b4c3
+apk=apk/Krilessa-v1.1.apk
+apkSha=bebb98ecef23e8fd44c6beb37ac72af02fc4402e1d11da714a31ca15a6359a08
+sig=MEUCIAsXch5T71T/6oX4KZVi4w7dltg0FMADcPtSj2XGT2GlAiEAxaLcet+qYcuhmQskwnk0rukAMXbrRUilGCkvgwbIpGo=
