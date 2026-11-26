@@ -1,9 +1,9 @@
-version=1.1
-title=Звёздный атлас
-code=78
+version=1.1.1
+title=Сила созвездий
+code=79
 minApk=39
-bundle=bundles/game-78.zip
-bundleSha=004c05ce7cb0e1b54d993b0dd47c2d79759768687208af5b887b5560a657b4c3
-apk=apk/Krilessa-v1.1.apk
-apkSha=bebb98ecef23e8fd44c6beb37ac72af02fc4402e1d11da714a31ca15a6359a08
-sig=MEUCIAsXch5T71T/6oX4KZVi4w7dltg0FMADcPtSj2XGT2GlAiEAxaLcet+qYcuhmQskwnk0rukAMXbrRUilGCkvgwbIpGo=
+bundle=bundles/game-79.zip
+bundleSha=2ad6024ae98db818006ed81cb788f735cfd4023d77d663e85e87937a655b6195
+apk=apk/Krilessa-v1.1.1.apk
+apkSha=23fb921220e81fbb64121bff53c094d9e4ef08d1850fc06f108c7836674f1c31
+sig=MEUCIHYwRGGHfLCINhg4MeFA3W1FGUBBG7tB5BPjzkYt9HnyAiEA/vwZUdgUYKMaX+clOETwdsqN5P5ZgXMyPcuDMvprUMM=
