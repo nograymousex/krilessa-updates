@@ -1,9 +1,9 @@
 version=1.2.2
 title=По ту сторону дамбы
-code=84
+code=85
 minApk=39
-bundle=bundles/game-84.zip
-bundleSha=5cea492c12d37b1a47381d4753a224589e33889bb8ace42ca63ac089cf59ce2f
-apk=apk/Krilessa-v1.2.2.apk
-apkSha=5003613cbf074f0cc0a541273401a6520c527e218a3e9fe5f5ee55b8550d6a93
-sig=MEQCIBuw8Q/zDYcZbCvo+xR7fNF+PCXH/foDg/EhRIoGyuEaAiA6DbtYmI5/AjONGj1LhocKdJ5iFJ2VBM1HRVVXcGBOJQ==
+bundle=bundles/game-85.zip
+bundleSha=7ad88f36827195e884267c3bef4adfe412cc09e67ac441401bb7859937c6c38d
+apk=apk/Krilessa-v1.2.2-r85.apk
+apkSha=41a424f2d2218ee15e18bfc2f4baca8c082f3a16415153a942046d670c6710e8
+sig=MEYCIQCe0HxmxUpEV2g67zIaWQsIYWS9oc+s0uAWsLDQ95ODhgIhAOV+U2lQZx+Pq9WjcBXjH4YfIA+AKVhzIbAM5EWYXIGF
