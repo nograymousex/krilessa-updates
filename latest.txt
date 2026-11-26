@@ -1,9 +1,9 @@
-version=1.2.1
-title=Третий звон
-code=83
+version=1.2.2
+title=По ту сторону дамбы
+code=84
 minApk=39
-bundle=bundles/game-83.zip
-bundleSha=1c48480f606c571ce6fafdb9fba49165091e483412bfab73f869caa0960059e9
-apk=apk/Krilessa-v1.2.1.apk
-apkSha=e9d1893f674dcb41f5f39e00f26e06bf8851064f58920d8b9847f77c874256cd
-sig=MEYCIQC+MxJ9Hj7lwtqn21SBiYgC3bcIa1ngK4y4+ltZEX5NVAIhALTcULw8fKAIsUd9ISb9cVMqKFOrww6ACaAbxwfDU3+d
+bundle=bundles/game-84.zip
+bundleSha=5cea492c12d37b1a47381d4753a224589e33889bb8ace42ca63ac089cf59ce2f
+apk=apk/Krilessa-v1.2.2.apk
+apkSha=5003613cbf074f0cc0a541273401a6520c527e218a3e9fe5f5ee55b8550d6a93
+sig=MEQCIBuw8Q/zDYcZbCvo+xR7fNF+PCXH/foDg/EhRIoGyuEaAiA6DbtYmI5/AjONGj1LhocKdJ5iFJ2VBM1HRVVXcGBOJQ==
