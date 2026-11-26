@@ -1,9 +1,9 @@
-version=1.1.3
-title=Дороги и переправы
-code=81
+version=1.2.0
+title=До первого света
+code=82
 minApk=39
-bundle=bundles/game-81.zip
-bundleSha=9065f7d77bf51cf78bc7b7225e18478a16b546d72dda18325d77cb50dfe7b245
-apk=apk/Krilessa-v1.1.3.apk
-apkSha=48c134fd3c90dee5247160e61579f40a75a2d99f964d59c6d66c11eaeef3be59
-sig=MEUCIQCWRyRbdVDuoLccX4DS6JsToSUbD76BJGge+kX+hWe8YwIgagk/JKB9dF2k6RUvnfOo+weMazdjjZ3uy/7MGEGtX5A=
+bundle=bundles/game-82.zip
+bundleSha=8c823d9a54f769517a86eece59e44d70191c7630b9d488a2b6864877f41d19a5
+apk=apk/Krilessa-v1.2.0.apk
+apkSha=37dc6d72f46c028cef208fb509c95b526186b489f26b616bd68c7a7a35486097
+sig=MEUCIQDPSjaeHDGTFG+k2SB0/V629V8LwK9seADx1W3QKdVPkAIgPcgIThzqQBNtUf+YV2QPTdhWTO8FXrhdBq4JohLTfAk=
