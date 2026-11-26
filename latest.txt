@@ -1,9 +1,9 @@
-version=1.1.1
-title=Сила созвездий
-code=79
+version=1.1.2
+title=Играем вместе
+code=80
 minApk=39
-bundle=bundles/game-79.zip
-bundleSha=2ad6024ae98db818006ed81cb788f735cfd4023d77d663e85e87937a655b6195
-apk=apk/Krilessa-v1.1.1.apk
-apkSha=23fb921220e81fbb64121bff53c094d9e4ef08d1850fc06f108c7836674f1c31
-sig=MEUCIHYwRGGHfLCINhg4MeFA3W1FGUBBG7tB5BPjzkYt9HnyAiEA/vwZUdgUYKMaX+clOETwdsqN5P5ZgXMyPcuDMvprUMM=
+bundle=bundles/game-80.zip
+bundleSha=346b2b84a62136ba4f0df8b6e6e228554252c66c0deaef037b9af8a374d8255a
+apk=apk/Krilessa-v1.1.2.apk
+apkSha=efd3293c4eafdc2dcffa1cd51398774d9ca74b7f91701c6e178968d94c95e7f8
+sig=MEUCIQDq11gQ99w7mhvU51DMsvwu/4Gxss3eT2ozHPiogTHXQgIgPV4lI0S/NwQ44QJu8H8iQzc42u9X5Bfu5Vs2b2ystns=
