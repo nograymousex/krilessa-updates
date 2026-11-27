@@ -1,9 +1,9 @@
-version=1.2.4
-title=Портрет Рыжовой
-code=87
+version=1.2.5
+title=Пока горят звёзды
+code=88
 minApk=39
-bundle=bundles/game-87.zip
-bundleSha=a835e63e59f46eb98709df544b94876eea39b37690897247d5769091eb09a572
-apk=apk/Krilessa-v1.2.4.apk
-apkSha=5994de0857f56bf7f6d302031e3582d0287991919beb19a6328d754482ce5870
-sig=MEQCIE/HDjcELOaDccW73rv2OFKaz/+4ZmcLgKIe3wyMdHcaAiAtPPkOQkAnh+zsIysmEg6SWjBoQ7B3wf+jXAED/5/29Q==
+bundle=bundles/game-88.zip
+bundleSha=b302769f8b09bc065a45bc76b7c2e54f22cb7f58a26d3471e836e13068b7e91f
+apk=apk/Krilessa-v1.2.5.apk
+apkSha=e33149c0bf7a680437a871c8d462b431265215e2c4aef8d7ff6ceb2584dc4129
+sig=MEYCIQCARkjDtCr3FVEzZGFIT1VxjupGfZMmHiMGzWMRirLgfAIhAM1e0ghm+dpKb9MdLBxDPEJcaV5M/7efqzn4vB6BnyCw
