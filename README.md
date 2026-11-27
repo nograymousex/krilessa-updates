@@ -1,13 +1,13 @@
 # Обновления Крилессы
 
-**1.2.3 «Три коротких удара»**
+**1.2.4 «Портрет Рыжовой»**
 
-Когда-то Крилесса и Варя договорились звонить три раза, если понадобится помощь. Сегодня на старой пристани снова слышен этот звон.
+Рыжовую нарисовали заново. Даже на маленьком портрете в комнате друзей видны её светлые глаза и медная прядь у щеки.
 
-Мы переписали встречи у шлюзов и финал восьмой главы. Теперь сцены можно листать в своём темпе.
+Присмотрись к воде у мостков в восьмой главе. Там теперь можно узнать её отражение.
 
-Исправили подтормаживания при попаданиях по боссам на дамбе.
+В первых двух главах Рыжовую снова видно за прутьями клетки.
 
 При запуске с интернетом игра сама предложит обновление. Нажми «Перезапустить», когда загрузка завершится.
 
-[Скачать APK для Android](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/apk/Krilessa-v1.2.3.apk) · [Анимации боссов](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/media/Krilessa-v1.2.2-bosses.webp) · [Послушать музыку 1.2.0](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/audio/Krilessa-v1.2.0.mp3)
+[Скачать APK для Android](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/apk/Krilessa-v1.2.4.apk) · [Анимации боссов](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/media/Krilessa-v1.2.2-bosses.webp) · [Послушать музыку 1.2.0](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/audio/Krilessa-v1.2.0.mp3)
