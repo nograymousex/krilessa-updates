@@ -1,9 +1,9 @@
-version=1.2.2
-title=По ту сторону дамбы
-code=85
+version=1.2.3
+title=Три коротких удара
+code=86
 minApk=39
-bundle=bundles/game-85.zip
-bundleSha=7ad88f36827195e884267c3bef4adfe412cc09e67ac441401bb7859937c6c38d
-apk=apk/Krilessa-v1.2.2-r85.apk
-apkSha=41a424f2d2218ee15e18bfc2f4baca8c082f3a16415153a942046d670c6710e8
-sig=MEYCIQCe0HxmxUpEV2g67zIaWQsIYWS9oc+s0uAWsLDQ95ODhgIhAOV+U2lQZx+Pq9WjcBXjH4YfIA+AKVhzIbAM5EWYXIGF
+bundle=bundles/game-86.zip
+bundleSha=4e5d7afe0a3014263f85ce337c24ab2cd28b017bd5fa4838f00b98fa076fcf70
+apk=apk/Krilessa-v1.2.3.apk
+apkSha=4d8816bfbac506292e26e7c9bd4fb391e780c0fe9128338fab163461598dcbbd
+sig=MEYCIQDNRWMYfo4/GxDp2Qj3+DG8NncfKBp2hV1OeRnrnBeavwIhALPI5jWKC3azTwKh3lQPGXeGbN/dddAf3lsnDV60/Mj+

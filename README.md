@@ -1,13 +1,13 @@
 # Обновления Крилессы
 
-**1.2.2 «По ту сторону дамбы»**
+**1.2.3 «Три коротких удара»**
 
-Под старой дамбой звонит колокол. Крилесса узнаёт этот звук с первого удара.
+Когда-то Крилесса и Варя договорились звонить три раза, если понадобится помощь. Сегодня на старой пристани снова слышен этот звон.
 
-В восьмой главе появились туманные причалы и соляные отмели. Теперь на дамбе шесть боссов. Отправляйся туда в одиночку или зови друзей.
+Мы переписали встречи у шлюзов и финал восьмой главы. Теперь сцены можно листать в своём темпе.
 
-Поправили сохранения и мелкие ошибки в совместной игре.
+Исправили подтормаживания при попаданиях по боссам на дамбе.
 
 При запуске с интернетом игра сама предложит обновление. Нажми «Перезапустить», когда загрузка завершится.
 
-[Скачать APK для Android](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/apk/Krilessa-v1.2.2-r85.apk) · [Кадры из игры](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/media/Krilessa-v1.2.2.jpg) · [Анимации боссов](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/media/Krilessa-v1.2.2-bosses.webp) · [Послушать музыку 1.2.0](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/audio/Krilessa-v1.2.0.mp3)
+[Скачать APK для Android](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/apk/Krilessa-v1.2.3.apk) · [Анимации боссов](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/media/Krilessa-v1.2.2-bosses.webp) · [Послушать музыку 1.2.0](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/audio/Krilessa-v1.2.0.mp3)
