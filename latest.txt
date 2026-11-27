@@ -1,9 +1,9 @@
-version=1.3.0
-title=Последний рейс
-code=89
+version=1.3.1
+title=Семь глав
+code=90
 minApk=39
-bundle=bundles/game-89.zip
-bundleSha=1c08d2dcdd5970b804eeee3103d44dc7974a4f6cce8d6a65e639fcef794af4f8
-apk=apk/Krilessa-v1.3.0.apk
-apkSha=1ffad8a62e1917de90cf47535de3e17fd661772f0eea11539bfaf53b042b2bcb
-sig=MEYCIQC9DcdTWRFAFceT51w5DsIvWO/4/O1y/NRnOQFHGqR8hgIhANTboe4S9v+sflqlpAY2J+hrB/gHcH3YKri3icsIujqx
+bundle=bundles/game-90.zip
+bundleSha=179e5f1f1a3c244858a3fd5e9f56f4e26f1dfa50977090965da0d91900e57f0b
+apk=apk/Krilessa-v1.3.1.apk
+apkSha=6dfc3ea1d9a67ef8098dfe816aa1dce77ccb57be4143d1d8af9d2024c57729af
+sig=MEQCIBecoNJ56HtZCDhbhcsoz3aQVAfWlgTb9wvJ/hyRcDl2AiBaiJEQPvnKwtB5kYR2G8hJTx1bpzbj7Qo4zRMuRK8X5Q==

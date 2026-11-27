@@ -1,9 +1,9 @@
 # Обновления Крилессы
 
-**1.3.0 «Последний рейс»**
+**Версия 1.3.1**
 
-На конечной в Северо-Курильске тебя ждёт Зямочкккк. На старой дамбе снова звучит прежняя мелодия, чуть тише.
+Убрали главы 8 и 9. Все заработанные звёзды остаются у тебя.
 
 Открой игру с интернетом и нажми «Перезапустить», когда обновление загрузится.
 
-[Кадр из главы](media/Krilessa-v1.3.0.jpg) · [Скачать игру для Android](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/apk/Krilessa-v1.3.0.apk)
+[Скачать игру для Android](https://raw.githubusercontent.com/nograymousex/krilessa-updates/main/apk/Krilessa-v1.3.1.apk)
